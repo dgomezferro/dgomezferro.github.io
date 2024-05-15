@@ -1,0 +1,4 @@
+[submodule "tla-web"]
+	path = tla-web
+	url = git@github.com:dgomezferro/tla-web.git
+	branch = load-local-files
